@@ -1,4 +1,4 @@
 name: WebProxy
 version: 1.0.0
 author: oscardoras
-main: org.bungeeplugin.webproxy.WebProxyPlugin
+main: me.oscardoras.webserver.WebProxyPlugin
